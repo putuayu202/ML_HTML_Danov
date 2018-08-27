@@ -1,0 +1,83 @@
+#logo{
+			width:20px;
+            height:20px; 
+            margin-top: auto;
+            margin-bottom: 100px;
+            margin-left:auto; 
+            margin-right:100px; 
+            
+}
+#header{
+            width:1370px;
+            height:100px; 
+            margin-top: -10px;
+            margin-bottom: auto;
+            margin-left:-20px; 
+            margin-right:auto; 
+            background-color:#2260ff; 
+            }
+#tombol{
+      width: 250px;
+      height: 50px;
+      padding:auto;
+      background: #dddddd;
+      color: #808080;
+      display: table;
+      transition: .3s ease-in;
+      font-family:  Open Sans Light;
+}
+#tombol:hover{
+    background-color:#13f4ff;
+}
+#tombol2{
+      width: 250px;
+      height: 50px;
+      padding:auto;
+      background: #dddddd;
+      color: #808080;
+      display: table;
+      transition: .3s ease-in;
+      font-family:  Open Sans Light;
+}
+#tombol2:hover{
+    background-color:#13f4ff;
+}
+#tombol3{
+      width: 250px;
+      height: 50px;
+      padding:auto;
+      background: #dddddd;
+      color: #808080;
+      display: table;
+      transition: .3s ease-in;
+      font-family:  Open Sans Light;
+}
+#tombol3:hover{
+    background-color:#13f4ff;
+}
+#tombol4{
+      width: 250px;
+      height: 50px;
+      padding:auto;
+      background: #dddddd;
+      color: #808080;
+      display: table;
+      transition: .3s ease-in;
+      font-family:  Open Sans Light;
+}
+#tombol4:hover{
+    background-color:#13f4ff;
+}
+#tombol5{
+      width: 300px;
+      height: 50px;
+      padding:auto;
+      background: #dddddd;
+      color: #808080;
+      display: table;
+      transition: .3s ease-in;
+      font-family:  Open Sans Light;
+}
+#tombol:hover{
+    background-color:#13f4ff;
+}
